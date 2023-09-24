@@ -39,7 +39,7 @@ form.addEventListener("submit", (e) => {
       <i onClick="deletePost(this)" class="fas fa-trash-alt"></i>     
     </span>
   </div>
-    `;            //this target only one 
+    `;             
     input.value="";
   };
 
